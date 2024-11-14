@@ -23,6 +23,8 @@ bank-full.csv with all examples and 17 inputs, ordered by date.
 
 **Group Project Instructions.docx** : The instructions of this project.  
 
+**Q3_DistributionExtention.R/ Q3_HousingLoanDistribution.R / Q3_HousingLoanData.csv** : Used to do visualisation on Q3.  
+
 
 ## Collaboration  
 
