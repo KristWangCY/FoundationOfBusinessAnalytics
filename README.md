@@ -2,9 +2,18 @@
 
 This R code is for Foundation Of Business Analytics - BU7154 - Trinity Business School
 
-## File description
+## Questions description  
+·      Analyse demography to draw a customer segment strategy.  
 
-**Q1_FBA_Final.R** : The main R code for the project, to get the demographic of customers.  
+·      Optimise the effectiveness of phone calls in increasing subscription rates for term deposits.  
+
+·      Use demographic data to determine which customer segments are more likely to have a housing loan.  
+
+## File description  
+
+**Q1_FBA_Final.R** : The main R code for the Q1, using randomforest to get the demographic of customers.  
+
+**Q3_FBA_Final.R** : The main R code for the Q3, using decision tree to get the demographic of customers.  
 
 **Bank_full.csv**: The dataset of Portugal Bank, The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.  
 
