@@ -18,4 +18,11 @@ bank-full.csv with all examples and 17 inputs, ordered by date.
 Team Project Doc: https://docs.google.com/document/d/1wW4VTk5z-x3b3d9Na2Ko6qOq3QN5EmEeRTb8AxqM2is/edit?tab=t.0  
 Team Report Doc: https://docs.google.com/document/d/1C_gxkbpqR7jKSuL-RO-vjJ-JspHwMIi9sIq6bE46x1E/edit?tab=t.0#heading=h.7ixgda4ejvd5
 
+## TEAMMATES  
+
+CHENYU WANG, GEUNJU PARK, PANAGIOTIS GEORGIADIS, SHANSHAN TAN, XIAOXUE JI
+
+
+
+
 # Last update: 2024/11/14
